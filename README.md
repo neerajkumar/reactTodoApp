@@ -1,2 +1,3 @@
-## Start the app
-```npm start```
+### Getting Started
+In order to start the application just run
+        npm start

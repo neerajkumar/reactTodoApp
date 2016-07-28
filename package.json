@@ -1,0 +1,19 @@
+{
+  "name": "reactApp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "redux": "^3.5.2",
+    "react-redux": "^4.4.5"
+  }
+}
